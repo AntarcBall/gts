@@ -1,0 +1,43 @@
+#display{
+    width: 500px;
+    height: 350px;
+    border: 1px solid black;
+    margin-left: 5px;
+    text-align: right;
+}
+input{
+    width: 445px;
+    margin-left: 5px;
+    text-align: right;
+}
+#info{
+    margin-top: 10px;
+    width: 500px;
+    height: 70px;
+    border: 1px solid black;
+    margin-left: 5px;
+    text-align: right;
+}
+#shadow{
+    position: absolute;
+    bottom: 40%;
+    left: 34%;
+    height: 450px;
+}
+#stat{
+    text-align: center;
+    border: 1px solid black;
+    position: absolute;
+    bottom: 65%;
+    left: 38%;
+    font-size: 14px;
+    width: 70px;
+    background-color: white;
+}
+
+.tag{
+    border: 'black solid 1px';
+    width: '30px';
+    background: 'white';
+    position: 'absolute';
+}
